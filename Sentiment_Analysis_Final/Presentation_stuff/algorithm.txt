@@ -1,0 +1,3 @@
+TFİDF
+Bag of words
+naive bayes  algorithm
