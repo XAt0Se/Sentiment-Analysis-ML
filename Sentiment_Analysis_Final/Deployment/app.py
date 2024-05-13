@@ -26,6 +26,4 @@ NOTE FOR MYSELF:
 While this web app running, it works until i enter text to analyze, but when i push to "analyze sentiment" i got an error
 with name "ValueError: Expected 2D array, got scalar array instead"
 Once i faced with that problem, and solve || now i am looking for to solve that problem - THIS NOT FOR MYSELF TO REMEMBER ERROR
-THERE IS AN ERRORRRRRRRRRRRRR, HEY I A TALKING TO YOU
-
 """
